@@ -1,0 +1,100 @@
+@font-face {
+  font-family: gilroyl;
+  src: url(https://fslab.my.id/fonts/gilroy/Gilroy-Light.woff2) format("woff");
+  speak: none;
+  font-style: normal;
+  font-weight: 300;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: gilroym;
+  src: url(https://fslab.my.id/fonts/gilroy/Gilroy-Medium.woff2) format("woff");
+  speak: none;
+  font-style: normal;
+  font-weight: 500;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: gilroyb;
+  src: url(https://fslab.my.id/fonts/gilroy/Gilroy.woff2) format("woff");
+  speak: none;
+  font-style: normal;
+  font-weight: 700;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: gilroysb;
+  src: url(https://fslab.my.id/fonts/gilroy/Gilroy-SemiBold.woff2) format("woff");
+  speak: none;
+  font-style: normal;
+  font-weight: 600;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: gilroyeb;
+  src: url(https://fslab.my.id/fonts/gilroy/Gilroy-ExtraBold.woff2) format("woff");
+  speak: none;
+  font-style: normal;
+  font-weight: 800;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-p {
+  background-color: #fffbff;
+}
+
+.primary-container {
+  background-color: #ffdad6;
+}
+
+.gilroyl {
+  font-family: "gilroyl";
+}
+
+.gilroym {
+  font-family: "gilroym";
+}
+
+.gilroyb {
+  font-family: "gilroyb";
+}
+
+.gilroysb {
+  font-family: "gilroysb";
+}
+
+.gilroyeb {
+  font-family: "gilroyeb";
+}
+
+.font-normal {
+  font-size: 4rem;
+}
+
+.font-dm {
+  font-family: "DM Sans", sans-serif;
+}
